@@ -107,5 +107,6 @@ bars instead of starting from faith. A suppressed miss would have cost
 one awkward chapter and poisoned every confident sentence before and
 after it. A published one is the receipt that the confident sentences
 were earned. That trade is the whole method, and it is the last thing
-this story recommends by argument — the next chapter has to ask what it
-recommends by example.
+this story recommends by argument. What it recommends by example is the
+harder question — and before that, a narrower one: does the effort
+behind a model's answer show up from outside at all?
