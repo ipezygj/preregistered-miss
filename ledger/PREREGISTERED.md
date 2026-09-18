@@ -240,10 +240,13 @@ already ship is.
 NOT deleted — a pre-registration whose value is its earliness must keep its original text. This
 section records what changed, why, and the new frozen trio. The Saturday audit reads BOTH.*
 
-## Why the δ-slots were withdrawn (rule quote)
+## Why the δ-slots were withdrawn (the organizer's ruling, in my words)
 
-The organizer ruled on the forum (2026-07-20, answering our exact construction): **inferring a
-constant from a leaderboard score and hard-coding it violates the rules.** Centring on the TRAIN
+The organizer ruled on the forum (2026-07-20, answering our exact construction) that inferring a
+constant from a leaderboard score and hard-coding it violates the rules. That sentence is my
+summary, not the organizer's wording: the forum is behind the competition's sign-in and this
+record deliberately does not name the competition, so the original is not reproducible here and
+should not be read as a quotation. Centring on the TRAIN
 base rate remains explicitly allowed; the δ = −0.08224 / −0.16448 offsets were derived from the
 hidden-test anchor (constant 0.7025 → 0.6238), so they are non-compliant. All three δ bundles are
 therefore QUARANTINED in `submission/.quarantine/` and are not submitted. Killing our own

@@ -144,7 +144,8 @@ calibration, a re-hashing hypothesis, a text-keyed bundle — while the competit
 already contained the organizer stating that `learning_objective_id` refers to the same skill across
 the whole dataset (June 30), that the test set is not drawn entirely from one provider (June 26),
 that transcripts never include dialogue after the predicted question (June 26), and that inferring a
-constant from a leaderboard score and hardcoding it **violates the rules** (July 20) — which is
+constant from a leaderboard score and hardcoding it violates the rules (July 20; that wording is
+my summary of the ruling, not the organizer's own sentence) — which is
 exactly what our δ bundles did.
 → CHECK: before modelling, read every organizer-answered thread in the competition forum. It is
 linked from the sidebar, it is SSO-gated so it is invisible to an unauthenticated fetch, and it is
